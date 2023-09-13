@@ -13,6 +13,10 @@
     "https://github.com/Sophie77777777/helloWorld_Sophie77777777.git:helloWorld.groovy": [
       "https://github.com/Sophie77777777/helloWorld_Sophie77777777.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/Sophie77777777/Sophie.git:Sophie.groovy": [
+      "https://github.com/Sophie77777777/Sophie.git",
+      "Sophie.groovy"
     ]
   },
   "BowlerStudioConfigs": {
